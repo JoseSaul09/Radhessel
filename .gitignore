@@ -36,18 +36,5 @@ Thumbs.db
 *.blend~
 __pycache__/
 
-# Archivos grandes o innecesarios
-*.fbx
-*.obj
-*.3ds
-*.mb
-*.ma
-*.exe
-*.zip
-*.rar
-*.7z
-*.mp4
-*.avi
-
 # Ignora builds exportadas
 Builds/
